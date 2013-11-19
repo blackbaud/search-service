@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Search.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PerfSQL02</Value>
+    </Setting>
+    <Setting Name="SQLDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Heifer_Masked</Value>
+    </Setting>
+    <Setting Name="MongoServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.26.1.51</Value>
+    </Setting>
+    <Setting Name="MongoDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">HeiferSearch</Value>
+    </Setting>
+    <Setting Name="ThreadCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="SyncSleep" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="solrUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ec2-54-237-97-164.compute-1.amazonaws.com/solr</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

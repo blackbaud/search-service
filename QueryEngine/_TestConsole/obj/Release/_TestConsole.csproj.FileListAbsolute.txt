@@ -1,0 +1,1 @@
+E:\git\QueryEngine\_TestConsole\bin\Release\_TestConsole.exe.config

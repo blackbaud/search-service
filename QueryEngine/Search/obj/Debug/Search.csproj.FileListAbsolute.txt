@@ -1,0 +1,10 @@
+E:\git\QueryEngine\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
+E:\git\QueryEngine\Search\bin\Debug\Search.dll.config
+E:\git\QueryEngine\Search\bin\Debug\Search.dll
+E:\git\QueryEngine\Search\bin\Debug\Search.pdb
+E:\git\QueryEngine\Search\bin\Debug\MongoDB.Bson.dll
+E:\git\QueryEngine\Search\bin\Debug\MongoDB.Driver.dll
+E:\git\QueryEngine\Search\bin\Debug\MongoDB.Bson.xml
+E:\git\QueryEngine\Search\bin\Debug\MongoDB.Driver.xml
+E:\git\QueryEngine\Search\obj\Debug\Search.dll
+E:\git\QueryEngine\Search\obj\Debug\Search.pdb

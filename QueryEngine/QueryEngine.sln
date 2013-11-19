@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_TestConsole", "_TestConsole\_TestConsole.csproj", "{7720C6E1-FF32-439C-9591-89E8FE910B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchHost", "SearchHost\SearchHost.csproj", "{F1DF7BE7-2189-411A-B70B-4642C1C816E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncEngine", "SyncEngine\SyncEngine.csproj", "{70D76830-2987-4C17-979F-CC672D8C6168}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ericloflin.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = _TestConsole\\_TestConsole.csproj
+		SccProjectName1 = _TestConsole
+		SccLocalPath1 = _TestConsole
+		SccProjectUniqueName2 = Search\\Search.csproj
+		SccProjectName2 = Search
+		SccLocalPath2 = Search
+		SccProjectUniqueName3 = SearchHost\\SearchHost.csproj
+		SccProjectName3 = SearchHost
+		SccLocalPath3 = SearchHost
+		SccProjectUniqueName4 = SyncEngine\\SyncEngine.csproj
+		SccProjectName4 = SyncEngine
+		SccLocalPath4 = SyncEngine
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Debug|x64.ActiveCfg = Debug|x64
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Debug|x64.Build.0 = Debug|x64
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Debug|x64.Deploy.0 = Debug|x64
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Release|Any CPU.ActiveCfg = Release|x64
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Release|Any CPU.Build.0 = Release|x64
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Release|x64.ActiveCfg = Release|x64
+		{7720C6E1-FF32-439C-9591-89E8FE910B51}.Release|x64.Build.0 = Release|x64
+		{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}.Release|Any CPU.ActiveCfg = Release|x64
+		{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}.Release|Any CPU.Build.0 = Release|x64
+		{0D9BCA0E-82B1-4040-BBB9-3D834D1D2DEF}.Release|x64.ActiveCfg = Release|Any CPU
+		{F1DF7BE7-2189-411A-B70B-4642C1C816E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DF7BE7-2189-411A-B70B-4642C1C816E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DF7BE7-2189-411A-B70B-4642C1C816E5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F1DF7BE7-2189-411A-B70B-4642C1C816E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DF7BE7-2189-411A-B70B-4642C1C816E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DF7BE7-2189-411A-B70B-4642C1C816E5}.Release|x64.ActiveCfg = Release|Any CPU
+		{70D76830-2987-4C17-979F-CC672D8C6168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D76830-2987-4C17-979F-CC672D8C6168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D76830-2987-4C17-979F-CC672D8C6168}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{70D76830-2987-4C17-979F-CC672D8C6168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D76830-2987-4C17-979F-CC672D8C6168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D76830-2987-4C17-979F-CC672D8C6168}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

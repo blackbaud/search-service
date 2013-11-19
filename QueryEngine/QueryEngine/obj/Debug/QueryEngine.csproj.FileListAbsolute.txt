@@ -1,0 +1,1 @@
+E:\git\QueryEngine\QueryEngine\bin\Debug\QueryEngine.exe.config

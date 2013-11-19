@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QueryEngine.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ThreadCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="QueueCapacity" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="SourceObjects" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Constituent, Address,FinancialTransaction</Value>
+    </Setting>
+    <Setting Name="SourceServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BBEC-SQL01</Value>
+    </Setting>
+    <Setting Name="SourceDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">29779_LCMS</Value>
+    </Setting>
+    <Setting Name="MongoServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mongodb://10.26.1.51/?safe=true</Value>
+    </Setting>
+    <Setting Name="MongoDatabaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AdhocQuery</Value>
+    </Setting>
+    <Setting Name="AppDescription" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Adhoc Query Service</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

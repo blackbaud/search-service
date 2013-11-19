@@ -1,0 +1,12 @@
+E:\git\QueryEngine\_TestConsole\bin\Debug\_TestConsole.exe.config
+E:\git\QueryEngine\_TestConsole\obj\Debug\_TestConsole.csprojResolveAssemblyReference.cache
+E:\git\QueryEngine\_TestConsole\bin\Debug\_TestConsole.exe
+E:\git\QueryEngine\_TestConsole\bin\Debug\_TestConsole.pdb
+E:\git\QueryEngine\_TestConsole\bin\Debug\MongoDB.Bson.dll
+E:\git\QueryEngine\_TestConsole\bin\Debug\MongoDB.Driver.dll
+E:\git\QueryEngine\_TestConsole\bin\Debug\Search.dll
+E:\git\QueryEngine\_TestConsole\bin\Debug\Search.pdb
+E:\git\QueryEngine\_TestConsole\bin\Debug\MongoDB.Bson.xml
+E:\git\QueryEngine\_TestConsole\bin\Debug\MongoDB.Driver.xml
+E:\git\QueryEngine\_TestConsole\obj\Debug\_TestConsole.exe
+E:\git\QueryEngine\_TestConsole\obj\Debug\_TestConsole.pdb
